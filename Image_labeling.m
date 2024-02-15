@@ -1,4 +1,4 @@
-function HICA_v4(Input,CN)
+function Image_labeling(Input,CN)
 % <Input>
 % Input: The image directory - images files to be clustered
 % CN: Cluster Number - Expected cluster number
