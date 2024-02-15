@@ -31,8 +31,8 @@ function HICA_v4(Input,CN)
 % GNU General Public License for more details.
 
 arguments
-    Input = 'C:\Users\BOerdek\OneDrive - Scientific Network South Tyrol\Journal Papers\JP-2-Hierarchical Clustering\New Journal\Matlab\100 parts';
-    CN = 2; %Specify the Cluster Number Here
+    Input = 'Insert image directory';
+    CN = 'Insert Cluster Number'; %Specify the Cluster Number Here
 end
 %% Insert the image dataset
 imds = imageDatastore(Input,'IncludeSubfolders',true,'LabelSource','foldernames');
