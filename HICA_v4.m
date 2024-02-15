@@ -90,7 +90,6 @@ T=table(Labels,Clusters);
 T2 =table(Labels_BBB,Clusters_BB);
 writetable(T2,'HICA_Clusters.xlsx'); % The MS Excel file will be saved at the same location as Matlab function "HICA"
 %% Show resulted clusters up to 5 clusters (depends on what is specified as "CN" as an argument)
-if CN == 2
 f = 0;
 for k = 1:5
     if T.Clusters(k) == 1
