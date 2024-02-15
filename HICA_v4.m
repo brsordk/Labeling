@@ -39,7 +39,7 @@ imds = imageDatastore(Input,'IncludeSubfolders',true,'LabelSource','foldernames'
 numberofimages = length(imds.Files);
 Labels_A = cellstr(filenames2labels(Input));
 %% Labeled dataset
-BB = readtable("Labeled Images.xlsx");
+BB = readtable("Labeled Images.xlsx"); % Insert 5 AM-labeled parts
 BBB = single(table2array(BB));
 labels_BB={'AM1';'AM2';'AM3';'AM4';'AM5'};
 Labels = [labels_BB ;Labels_A];
