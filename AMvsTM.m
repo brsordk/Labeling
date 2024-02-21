@@ -1,4 +1,4 @@
-function Image_labeling(Input,CN)
+function AMvsTM(Input,CN)
 % <Input>
 % Input: The image directory - images files to be clustered
 % CN: Cluster Number - Expected cluster number
