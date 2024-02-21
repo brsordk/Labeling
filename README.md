@@ -27,7 +27,7 @@ In case of using CAD models as inputs, the algorithm requires a CAD processing s
 **Labeled Images.xlsx** file contains five initially AM-labeled parts.
 
 
-Note: The proposed software was configured by default to operate with .JPG images. However, additional image formats such as .PNG, .TIFF among others are supported, if they are not encrypted.
+**Note:** The proposed software was configured by default to operate with .JPG images. However, additional image formats such as .PNG, .TIFF among others are supported, if they are not encrypted.
 
  **Step 3:** After opening the file, specify the location of the image folder by copying it from your computer’s directory. 
 
