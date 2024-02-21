@@ -24,6 +24,8 @@ In case of using CAD models as inputs, the algorithm requires a CAD processing s
 -	Specify the folder to save the extracted images
 
 **Step 2:** Open **AMvsTM.m** file from the directory. This file contains the code for reading the images and clustering them. This code is responsible for the functionality of the software, so it is important to avoid making unexpected changes to the source code unless you have a good understanding of the implications of those changes. Download and store the file named **Labeled Images.xlsx** in the same location as the **AMvsTM.m** file.
+**Labeled Images.xlsx** file contains five initially AM-labeled parts.
+
 
 Note: The proposed software was configured by default to operate with .JPG images. However, additional image formats such as .PNG, .TIFF among others are supported, if they are not encrypted.
 
