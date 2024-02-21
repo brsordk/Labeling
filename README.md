@@ -36,3 +36,9 @@ Note: The proposed software was configured by default to operate with .JPG image
 -	Figure 3: Images that are in Traditional Manufacturing Cluster
 
 The algorithm also saves and exports an “.XLSX” file containing clusters of each image in the dataset.
+
+**Step 5** Visualize the resulting clusters and the dendrogram.
+
+## LICENSE
+
+GNU General Public License v3.0
