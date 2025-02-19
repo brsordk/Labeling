@@ -44,3 +44,7 @@ The algorithm also saves and exports an “.XLSX” file containing clusters of 
 ## LICENSE
 
 GNU General Public License v3.0
+
+## Citation
+
+lease cite the following paper if you use the algorithm in your research: https://doi.org/10.1016/j.rineng.2025.104418
